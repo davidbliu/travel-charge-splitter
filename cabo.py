@@ -19,7 +19,6 @@ def get_charges(sheet):
 	with open(sheet,'rb') as csvfile:
 		reader = csv.reader(csvfile, delimiter = ',')
 		for row in reader:
-			# if row[1] != 'Item':
 			chargees = get_chargees(row)
 			charge = {
 				'item': row[1],
@@ -29,7 +28,7 @@ def get_charges(sheet):
 				'num_chargees': len(chargees),
 				'day': row[0]
 			}
-			if charge['num_chargees'] != 0  and is_num(charge['amount']): # != '':
+			if charge['num_chargees'] != 0  and is_num(charge['amount']):
 				charge['amount'] = float(charge['amount'])
 				charges.append(charge)
 	return charges
@@ -43,7 +42,7 @@ def calculate_owing(person, charges):
 		for chargee in chargees:
 			if chargee not in owe_dict.keys():
 				owe_dict[chargee] = []
-			owe_dict[chargee].append(charge) # float(charge['amount'])/charge['num_chargees']
+			owe_dict[chargee].append(charge)
 	return owe_dict
 
 def charge_string(charge):
@@ -60,7 +59,7 @@ def print_owing(person, owing):
 	amount_owed = get_amount_owed([item for sublist in owing.values() for item in sublist])
 	print '\n=== '+person+' is owed $'+str(amount_owed)+' ==='
 	for chargee in owing.keys():
-		amount = get_amount_owed(owing[chargee])# sum([c['amount']/c['num_chargees'] for c in owing[chargee]])
+		amount = get_amount_owed(owing[chargee])
 		print TAB+chargee+' owes you '+str(amount)
 		for charge in owing[chargee]:
 			print TAB*2+'* '+charge_string(charge)
