@@ -50,47 +50,50 @@
     * 3.0 for Taxi from hospital on Friday
     * 11.76470588 for Last Dinner Pay on Friday
 
-=== Alice is owed $203.090641711 ===
-  Kenny owes you 11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
-  Cate owes you 11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
-  Julie owes you 14.69171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+=== Alice is owed $204.075490196 ===
+  Kenny owes you 10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+  Cate owes you 10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+  Julie owes you 13.7068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 2.4 for Mega Drink on Tuesday
-  Michael owes you 14.69171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  Michael owes you 13.7068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 2.4 for Mega Drink on Tuesday
-  David owes you 87.6328877
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  David owes you 86.6480392152
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 20.0 for Captain Tony on Monday
     * 2.4 for Mega Drink on Tuesday
     * 52.94117647 for Give u da booty on Friday
-  Hammad owes you 11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
-  Tiffany owes you 11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
-  Allen owes you 11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
-  Betina owes you 14.69171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  Hammad owes you 10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+  Frances owes you 10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+  Tiffany owes you 10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+  Allen owes you 10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+  Betina owes you 13.7068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 2.4 for Mega Drink on Tuesday
-  Eric owes you 12.29171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  Eric owes you 11.3068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
 
 === David is owed $591.451960798 ===
@@ -194,17 +197,17 @@
 
 ############# How much each person owes #############
 
->>> Kenny owes $11.8181818182 <<<
-  You owe Alice $11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+>>> Kenny owes $10.8333333333 <<<
+  You owe Alice $10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
 
->>> Cate owes $11.8181818182 <<<
-  You owe Alice $11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+>>> Cate owes $10.8333333333 <<<
+  You owe Alice $10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
 
->>> Julie owes $210.903279862 <<<
+>>> Julie owes $209.918431377 <<<
   You owe Eric $29.0
     * 25.0 for Parasailing on Friday
     * 4.0 for Tip Concierge on Friday
@@ -217,9 +220,9 @@
     * 5.0 for Coconut on Wednesday
     * 3.0 for Taxi from hospital on Friday
     * 4.0 for Airport Snacks (Water,Bars) on Saturday
-  You owe Alice $14.69171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  You owe Alice $13.7068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 2.4 for Mega Drink on Tuesday
   You owe David $141.811568631
@@ -239,7 +242,7 @@
     * 4.435294118 for Last Dinner Tip on Friday
     * 9.0 for Panda Express on Saturday
 
->>> Michael owes $182.476809273 <<<
+>>> Michael owes $181.491960788 <<<
   You owe Eric $31.5
     * 25.0 for Parasailing on Friday
     * 4.0 for Tip Concierge on Friday
@@ -251,9 +254,9 @@
     * 8.235294118 for Grocery Store on Thursday
   You owe Betina $3.0
     * 3.0 for Taxi on Tuesday
-  You owe Alice $14.69171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  You owe Alice $13.7068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 2.4 for Mega Drink on Tuesday
   You owe David $113.693921572
@@ -305,7 +308,7 @@
     * 4.435294118 for Last Dinner Tip on Friday
     * 9.0 for Panda Express on Saturday
 
->>> David owes $272.241711222 <<<
+>>> David owes $271.256862737 <<<
   You owe Julie $85.4735294118
     * 0.473529411833 for Foreign Transaction on Monday
     * 5.0 for Taco Guss (Burrito) on Thursday
@@ -321,9 +324,9 @@
     * 1.0 for Water on Tuesday
     * 3.0 for Taxi from hospital on Friday
     * 11.76470588 for Last Dinner Pay on Friday
-  You owe Alice $87.6328877
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  You owe Alice $86.6480392152
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 20.0 for Captain Tony on Monday
     * 2.4 for Mega Drink on Tuesday
@@ -335,30 +338,35 @@
     * 2.5 for McDawnold on Friday
     * 14.70588235 for Last Dinner Pay on Friday
 
->>> Hammad owes $11.8181818182 <<<
-  You owe Alice $11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+>>> Hammad owes $10.8333333333 <<<
+  You owe Alice $10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
 
->>> Tiffany owes $11.8181818182 <<<
-  You owe Alice $11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+>>> Frances owes $10.8333333333 <<<
+  You owe Alice $10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
 
->>> Allen owes $11.8181818182 <<<
-  You owe Alice $11.8181818182
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+>>> Tiffany owes $10.8333333333 <<<
+  You owe Alice $10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
 
->>> Betina owes $76.3897504453 <<<
+>>> Allen owes $10.8333333333 <<<
+  You owe Alice $10.8333333333
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
+
+>>> Betina owes $75.4049019605 <<<
   You owe Julie $0.473529411833
     * 0.473529411833 for Foreign Transaction on Monday
   You owe Michael $3.4
     * 2.4 for Mega Drink on Tuesday
     * 1.0 for Water on Tuesday
-  You owe Alice $14.69171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  You owe Alice $13.7068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
     * 2.4 for Mega Drink on Tuesday
   You owe David $57.8245098035
@@ -369,7 +377,7 @@
     * 1.96078431333 for Breakfast on Wednesday
     * 8.0 for Pads on Thursday
 
->>> Eric owes $145.400338685 <<<
+>>> Eric owes $144.4154902 <<<
   You owe Julie $19.5911764718
     * 0.473529411833 for Foreign Transaction on Monday
     * 5.0 for Taco Guss (Quesadilla) on Thursday
@@ -379,9 +387,9 @@
     * 3.0 for Taxi on Tuesday
   You owe Michael $3.0
     * 3.0 for Taxi from hospital on Friday
-  You owe Alice $12.29171123
-    * 10.0 for Wal Mart on Monday
-    * 1.81818181818 for Tip Airport Drive on Monday
+  You owe Alice $11.3068627452
+    * 9.16666666667 for Wal Mart on Monday
+    * 1.66666666667 for Tip Airport Drive on Monday
     * 0.473529411833 for Foreign Transaction on Monday
   You owe David $107.517450984
     * 0.9470588235 for Foreign Transaction on Monday
