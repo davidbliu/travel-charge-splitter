@@ -2,6 +2,13 @@ import csv, sys
 
 TAB = '  '
 
+def is_num(x):
+	try:
+		x = float(x)
+	except ValueError:
+		return False
+	return True
+
 def get_chargees(row):
 	inds = [i for i in range(4, len(row))]
 	c = [row[i] for i in inds]
@@ -12,22 +19,22 @@ def get_charges(sheet):
 	with open(sheet,'rb') as csvfile:
 		reader = csv.reader(csvfile, delimiter = ',')
 		for row in reader:
-			if row[1] != 'Item':
-				chargees = get_chargees(row)
-				charge = {
-					'item': row[1],
-					'payer': row[2],
-					'amount': row[3],
-					'chargees': chargees,
-					'num_chargees': len(chargees),
-					'day': row[0]
-				}
-				if charge['num_chargees'] != 0  and charge['amount'] != '':
-					charge['amount'] = float(charge['amount'])
-					charges.append(charge)
+			# if row[1] != 'Item':
+			chargees = get_chargees(row)
+			charge = {
+				'item': row[1],
+				'payer': row[2],
+				'amount': row[3],
+				'chargees': chargees,
+				'num_chargees': len(chargees),
+				'day': row[0]
+			}
+			if charge['num_chargees'] != 0  and is_num(charge['amount']): # != '':
+				charge['amount'] = float(charge['amount'])
+				charges.append(charge)
 	return charges
 
-# calculate dict of who owes you what
+# calculate dict key: ower, values: list of charges owed
 def calculate_owing(person, charges):
 	owe_dict = {}
 	my_charges = [c for c in charges if c['payer'] == person]
@@ -59,6 +66,7 @@ def print_owing(person, owing):
 			print TAB*2+'* '+charge_string(charge)
 
 
+# dict keys: payers values: list of charges owed
 def calculate_owes(person, charges):
 	owes = {}
 	for charge in charges:

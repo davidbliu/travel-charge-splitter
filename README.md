@@ -16,4 +16,21 @@ results: [pbl.link/cabo-results](http://pbl.link/cabo-results)
     * results will list payers and how much people owe them
     * results also list owers and how much they owe each payer
 
+## Details
+
+a charge is represented as
+
+```
+{
+  day: string,
+  item: string,
+  payer: string, 
+  amount: float,
+  num_chargees: int,
+  chargees: list of strings,
+}
+```
+
+names must be unique
+
 
