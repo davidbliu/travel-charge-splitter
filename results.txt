@@ -1,0 +1,198 @@
+
+=== David ===
+  Julie owes you 146.246862749
+    * 0.9470588235 for Foreign Transaction on Monday
+    * 16.5 for Mango Deck on Tuesday
+    * 0.416666666667 for Water on Tuesday
+    * 30.0 for Snorkel on Wednesday
+    * 30.0 for Booze Cruise (julie+alice+david) on Wednesday
+    * 1.96078431333 for Breakfast on Wednesday
+    * 1.176470588 for Taco Guss (1 taco) on Wednesday
+    * 5.882352942 for ATV Tip x 2 on Thursday
+    * 8.0 for Shirts on Thursday
+    * 7.0 for Deposit on Friday
+    * 4.435294118 for Tip for last meal on Friday
+    * 3.0 for McDawnold on Friday
+    * 12.27176471 for Last Dinner (Sandwich) on Friday
+    * 11.22117647 for Last Dinner Desert + Water on Friday
+    * 4.435294118 for Last Dinner Tip on Friday
+    * 9.0 for Panda Express on Saturday
+  Betina owes you 57.8245098035
+    * 0.9470588235 for Foreign Transaction on Monday
+    * 16.5 for Mango Deck on Tuesday
+    * 0.416666666667 for Water on Tuesday
+    * 30.0 for Snorkel on Wednesday
+    * 1.96078431333 for Breakfast on Wednesday
+    * 8.0 for Pads on Thursday
+  Michael owes you 118.12921569
+    * 0.9470588235 for Foreign Transaction on Monday
+    * 16.5 for Mango Deck on Tuesday
+    * 0.416666666667 for Water on Tuesday
+    * 30.0 for Snorkel on Wednesday
+    * 1.96078431333 for Breakfast on Wednesday
+    * 6.176470588 for Taco Guss (Burrito + 2 shrimp tacos) on Wednesday
+    * 5.882352942 for ATV Tip x 2 on Thursday
+    * 8.0 for Shirts on Thursday
+    * 7.0 for Deposit on Friday
+    * 4.435294118 for Tip for last meal on Friday
+    * 3.0 for McDawnold on Friday
+    * 18.15411765 for Last Dinner (Chickin) on Friday
+    * 11.22117647 for Last Dinner Desert + Water on Friday
+    * 4.435294118 for Last Dinner Tip on Friday
+  Alice owes you 175.039803927
+    * 0.9470588235 for Foreign Transaction on Monday
+    * 16.5 for Mango Deck on Tuesday
+    * 0.416666666667 for Water on Tuesday
+    * 20.0 for Fansy Dinner on Tuesday
+    * 30.0 for Snorkel on Wednesday
+    * 30.0 for Booze Cruise (julie+alice+david) on Wednesday
+    * 1.96078431333 for Breakfast on Wednesday
+    * 3.529411765 for Taco Guss (3 tacos) on Wednesday
+    * 5.882352942 for ATV Tip x 2 on Thursday
+    * 8.0 for Shirts on Thursday
+    * 7.0 for Deposit on Friday
+    * 4.435294118 for Tip for last meal on Friday
+    * 3.0 for McDawnold on Friday
+    * 18.71176471 for Last Dinner (Fish) on Friday
+    * 11.22117647 for Last Dinner Desert + Water on Friday
+    * 4.435294118 for Last Dinner Tip on Friday
+    * 9.0 for Panda Express on Saturday
+  Eric owes you 116.952745102
+    * 0.9470588235 for Foreign Transaction on Monday
+    * 16.5 for Mango Deck on Tuesday
+    * 0.416666666667 for Water on Tuesday
+    * 30.0 for Snorkel on Wednesday
+    * 1.96078431333 for Breakfast on Wednesday
+    * 5.0 for Taco Guss (4 tacos) on Wednesday
+    * 5.882352942 for ATV Tip x 2 on Thursday
+    * 8.0 for Shirts on Thursday
+    * 7.0 for Deposit on Friday
+    * 4.435294118 for Tip for last meal on Friday
+    * 3.0 for McDawnold on Friday
+    * 18.15411765 for Last Dinner (Chickin) on Friday
+    * 11.22117647 for Last Dinner Desert + Water on Friday
+    * 4.435294118 for Last Dinner Tip on Friday
+
+=== Alice ===
+  Kenny owes you 11.8181818182
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+  Cate owes you 11.8181818182
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+  Julie owes you 14.69171123
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 2.4 for Mega Drink on Tuesday
+  Michael owes you 14.69171123
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 2.4 for Mega Drink on Tuesday
+  David owes you 87.6328877
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 20.0 for Captain Tony on Monday
+    * 2.4 for Mega Drink on Tuesday
+    * 52.94117647 for Give u da booty on Friday
+  Hammad owes you 11.8181818182
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+  Tiffany owes you 11.8181818182
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+  Allen owes you 11.8181818182
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+  Betina owes you 14.69171123
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 2.4 for Mega Drink on Tuesday
+  Eric owes you 12.29171123
+    * 10.0 for Wal Mart on Monday
+    * 1.81818181818 for Tip Airport Drive on Monday
+    * 0.473529411833 for Foreign Transaction on Monday
+
+=== Julie ===
+  Betina owes you 0.473529411833
+    * 0.473529411833 for Foreign Transaction on Monday
+  Eric owes you 19.5911764718
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 5.0 for Taco Guss (Quesadilla) on Thursday
+    * 5.882352942 for ATV Tip on Thursday
+    * 8.235294118 for Grocery Store on Thursday
+  Michael owes you 19.5911764718
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 5.0 for Taco Guss (Burrito) on Thursday
+    * 5.882352942 for ATV Tip on Thursday
+    * 8.235294118 for Grocery Store on Thursday
+  Alice owes you 71.6500000008
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 7.058823529 for Taco Guss ( 5 Tacos + Horchata) on Thursday
+    * 50.0 for ATV on Thursday
+    * 5.882352942 for ATV Tip on Thursday
+    * 8.235294118 for Grocery Store on Thursday
+  David owes you 85.4735294118
+    * 0.473529411833 for Foreign Transaction on Monday
+    * 5.0 for Taco Guss (Burrito) on Thursday
+    * 50.0 for ATV on Thursday
+    * 5.882352942 for ATV Tip on Thursday
+    * 8.235294118 for Grocery Store on Thursday
+    * 15.88235294 for Last Dinner Pay on Friday
+
+=== Michael ===
+  Eric owes you 11.0
+    * 3.0 for Taxi on Friday
+    * 4.0 for Tip Concierge on Friday
+    * 4.0 for Airport Snacks (Water,Bars) on Saturday
+  Julie owes you 26.4
+    * 2.4 for Mega Drink on Tuesday
+    * 1.0 for Water on Tuesday
+    * 7.0 for Fat Tuesday on Tuesday
+    * 5.0 for Coconut on Wednesday
+    * 3.0 for Taxi on Friday
+    * 4.0 for Tip Concierge on Friday
+    * 4.0 for Airport Snacks (Water,Bars) on Saturday
+  Betina owes you 3.4
+    * 2.4 for Mega Drink on Tuesday
+    * 1.0 for Water on Tuesday
+  Alice owes you 10.4
+    * 2.4 for Mega Drink on Tuesday
+    * 1.0 for Water on Tuesday
+    * 3.0 for Taxi on Friday
+    * 4.0 for Tip Concierge on Friday
+  David owes you 33.92941176
+    * 11.76470588 for Mango Deck on Tuesday
+    * 2.4 for Mega Drink on Tuesday
+    * 1.0 for Water on Tuesday
+    * 3.0 for Taxi on Friday
+    * 4.0 for Tip Concierge on Friday
+    * 11.76470588 for Last Dinner Pay on Friday
+
+=== Eric ===
+  Julie owes you 25.0
+    * 25.0 for Parasailing on Friday
+  Michael owes you 27.5
+    * 25.0 for Parasailing on Friday
+    * 2.5 for McDawnold on Friday
+  Alice owes you 25.0
+    * 25.0 for Parasailing on Friday
+  David owes you 42.20588235
+    * 25.0 for Parasailing on Friday
+    * 2.5 for McDawnold on Friday
+    * 14.70588235 for Last Dinner Pay on Friday
+
+=== Betina ===
+  Julie owes you 3.0
+    * 3.0 for Taxi on Tuesday
+  Eric owes you 3.0
+    * 3.0 for Taxi on Tuesday
+  Michael owes you 3.0
+    * 3.0 for Taxi on Tuesday
+  Alice owes you 3.0
+    * 3.0 for Taxi on Tuesday
+  David owes you 3.0
+    * 3.0 for Taxi on Tuesday
